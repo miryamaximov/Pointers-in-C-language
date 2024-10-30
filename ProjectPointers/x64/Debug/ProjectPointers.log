@@ -1,0 +1,3 @@
+﻿  CarRental.c
+D:\Users\User\Documents\תיקיית תכנות\פרויקטים C\ProjectPointers\ProjectPointers\CarRental.c(42,2): warning C4013: 'gets' undefined; assuming extern returning int
+  ProjectPointers.vcxproj -> D:\Users\User\Documents\תיקיית תכנות\פרויקטים C\ProjectPointers\x64\Debug\ProjectPointers.exe
